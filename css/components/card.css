@@ -1,0 +1,8 @@
+.card {
+	background-color: white;
+	padding: 30px 20px;
+	margin: 20px 0px;
+	border-radius: 5px;
+	box-shadow: 2px 2px 2px lightgrey;
+	opacity: 0.85;
+}
